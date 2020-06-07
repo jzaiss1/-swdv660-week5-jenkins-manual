@@ -1,1 +1,1 @@
-# -swdv660-week5-jenkins-manual
+# swdv660-week5-jenkins-manual
